@@ -26,5 +26,28 @@
 
 ・**ST-LLM** ST-LLM: Large Language Models Are Effective Temporal Learners [[MDM 2024]](https://arxiv.org/abs/2404.00308) [[Code]](https://github.com/ChenxiLiu-HNU/ST-LLM.git)
 
+・**Moment** MOMENT: A Family of Open Time-series Foundation Model [[ICML 2024]](https://arxiv.org/abs/2402.03885) [[Code]](https://github.com/moment-timeseries-foundation-model/moment.git)
+
+・**Timer** Timer: Generative Pre-trained Transformers Are Large Time Series Models [[ICML 2024]](https://arxiv.org/abs/2402.02368) [[Code]](https://github.com/moment-timeseries-foundation-model/moment.git)
+
+・**Moirai** Unified Training of Universal Time Series Forecasting Transformers [[ICML 2024]](https://arxiv.org/abs/2402.02592) [[Code]](https://github.com/SalesforceAIResearch/uni2ts.git)
+
+・**Timer-XL** Timer-XL: Long-Context Transformers for Unified Time Series Forecasting [[ICLR 2025]](https://arxiv.org/abs/2410.04803) [[Code]](https://github.com/thuml/Timer-XL.git)
+
+・**Time-MoE** Time-MoE: Billion-Scale Time Series Foundation Models With Mixture Of Experts [[ICLR 2025]](https://arxiv.org/abs/2409.16040) [[Code]](https://github.com/Time-MoE/Time-MoE.git)
+
+・**Chronos** Chronos: Learning the Language of Time Series [[TMLR 2024]](https://arxiv.org/abs/2403.07815) [[Code]](https://github.com/amazon-science/chronos-forecasting.git)
+
+・**LMTraj** Can Language Beat Numerical Regression? Language-Based Multimodal Trajectory Prediction [[CVPR 2024]](https://arxiv.org/abs/2403.18447) [[Code]](https://github.com/InhwanBae/LMTrajectory.git)
+
+・**ICTSP** In-context Time Series Predictor [[ICLR 2025]](https://arxiv.org/abs/2403.18447) [[Code]](https://github.com/LJC-FVNR/In-context-Time-Series-Predictor.git)
+
+
+
+
+
+
+
+
 
 
