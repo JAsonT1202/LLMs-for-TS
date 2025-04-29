@@ -20,6 +20,11 @@
 
 ・**ChatTime** ChatTime: A Unified Multimodal Time Series Foundation Model Bridging Numerical and Textual Data [[AAAI 2025]](https://arxiv.org/abs/2412.11376) [[Code]](https://github.com/ForestsKing/ChatTime.git)
 
+・**S²IP-LLM** S²IP-LLM: Semantic Space Informed Prompt Learning with LLM for Time Series Forecasting [[ICML 2024]](https://arxiv.org/abs/2403.05798) [[Code]](https://github.com/panzijie825/S2IP-LLM.git)
+
+・**aLLM4TS** Multi-Patch Prediction: Adapting LLMs for Time Series Representation Learning [[ICML 2024]](https://arxiv.org/abs/2402.04852) [[Code]](https://github.com/yxbian23/aLLM4TS.git)
+
+・**ST-LLM** ST-LLM: Large Language Models Are Effective Temporal Learners [[MDM 2024]](https://arxiv.org/abs/2404.00308) [[Code]](https://github.com/ChenxiLiu-HNU/ST-LLM.git)
 
 
 
