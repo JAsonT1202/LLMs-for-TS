@@ -1,4 +1,7 @@
+## LLMs for Time Series Forescating
 
+ A comprehensive summary of the latest LLM-based time series forecasting models that have been published at top conferences (NeurIPS, ICLR, ICML, AAAI, etc.) and have released their source code.
+---
 
 ・**TimeCMA** TimeCMA: Towards LLM-Empowered Multivariate Time Series Forecasting via Cross-Modality Alignment [[AAAI 2025]](https://arxiv.org/abs/2406.01638) [[Code]](https://github.com/ChenxiLiu-HNU/TimeCMA.git)
 
