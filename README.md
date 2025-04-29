@@ -2,23 +2,19 @@
 
 ・**TimeCMA** TimeCMA: Towards LLM-Empowered Multivariate Time Series Forecasting via Cross-Modality Alignment [[AAAI 2025]](https://arxiv.org/abs/2406.01638) [[Code]](https://github.com/ChenxiLiu-HNU/TimeCMA.git)
 
-・**AutoTimes** AutoTimes: Autoregressive Time Series Forecasters via Large Language Models [[NeurIPS 2024]](https://arxiv.org/abs/2402.02370) [[Code]](https://github.com/thuml/AutoTimes.git)
-
-・**Time-LLM** Time-LLM: Time Series Forecasting by Reprogramming Large Language Models [[ICLR 2024]](https://arxiv.org/abs/2310.01728) [[Code]](https://github.com/KimMeen/Time-LLM.git)
-
-・**OFA** One Fits All:Power General Time Series Analysis by Pretrained LM [[NeurIPS 2023]](https://arxiv.org/abs/2302.11939) [[Code]](https://github.com/DAMO-DI-ML/NeurIPS2023-One-Fits-All.git)
-
-・**LLMTime** Large Language Models Are Zero-Shot Time Series Forecasters [[NeurIPS 2023]](https://arxiv.org/abs/2310.07820) [[Code]](https://github.com/ngruver/llmtime.git)
-
-・**TEMPO** TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting [[ICLR 2024]](https://arxiv.org/abs/2310.04948) [[Code]](https://github.com/DC-research/TEMPO.git)
-
-・**TimesFM** A decoder-only foundation model for time-series forecasting [[ICML 2024]](https://arxiv.org/abs/2310.10688) [[Code]](https://github.com/google-research/timesfm.git)
-
-・**AutoTimes** Autoregressive Time Series Forecasters via Large Language Models [[NeurIPS 2024]](https://arxiv.org/abs/2402.02370) [[Code]](https://github.com/thuml/AutoTimes.git)
-
-・**GPT4MTS** Prompt-based Large Language Model for Multimodal Time-Series Forecasting [[AAAI 2024]](https://ojs.aaai.org/index.php/AAAI/article/view/30383) [[Code]](https://github.com/Flora-jia-jfr/GPT4MTS-Prompt-based-Large-Language-Model-for-Multimodal-Time-series-Forecasting.git)
-
 ・**ChatTime** ChatTime: A Unified Multimodal Time Series Foundation Model Bridging Numerical and Textual Data [[AAAI 2025]](https://arxiv.org/abs/2412.11376) [[Code]](https://github.com/ForestsKing/ChatTime.git)
+
+・**Timer-XL** Timer-XL: Long-Context Transformers for Unified Time Series Forecasting [[ICLR 2025]](https://arxiv.org/abs/2410.04803) [[Code]](https://github.com/thuml/Timer-XL.git)
+
+・**Time-MoE** Time-MoE: Billion-Scale Time Series Foundation Models With Mixture Of Experts [[ICLR 2025]](https://arxiv.org/abs/2409.16040) [[Code]](https://github.com/Time-MoE/Time-MoE.git)
+
+・**ICTSP** In-context Time Series Predictor [[ICLR 2025]](https://arxiv.org/abs/2403.18447) [[Code]](https://github.com/LJC-FVNR/In-context-Time-Series-Predictor.git)
+
+・**UniTime** UniTime: A Language-Empowered Unified Model for Cross-Domain Time Series Forecasting [[WWW 2024]](https://arxiv.org/abs/2310.09751) [[Code]](https://github.com/liuxu77/UniTime.git)
+
+・**Chronos** Chronos: Learning the Language of Time Series [[TMLR 2024]](https://arxiv.org/abs/2403.07815) [[Code]](https://github.com/amazon-science/chronos-forecasting.git)
+
+・**LMTraj** Can Language Beat Numerical Regression? Language-Based Multimodal Trajectory Prediction [[CVPR 2024]](https://arxiv.org/abs/2403.18447) [[Code]](https://github.com/InhwanBae/LMTrajectory.git)
 
 ・**S²IP-LLM** S²IP-LLM: Semantic Space Informed Prompt Learning with LLM for Time Series Forecasting [[ICML 2024]](https://arxiv.org/abs/2403.05798) [[Code]](https://github.com/panzijie825/S2IP-LLM.git)
 
@@ -32,17 +28,21 @@
 
 ・**Moirai** Unified Training of Universal Time Series Forecasting Transformers [[ICML 2024]](https://arxiv.org/abs/2402.02592) [[Code]](https://github.com/SalesforceAIResearch/uni2ts.git)
 
-・**Timer-XL** Timer-XL: Long-Context Transformers for Unified Time Series Forecasting [[ICLR 2025]](https://arxiv.org/abs/2410.04803) [[Code]](https://github.com/thuml/Timer-XL.git)
+・**GPT4MTS** Prompt-based Large Language Model for Multimodal Time-Series Forecasting [[AAAI 2024]](https://ojs.aaai.org/index.php/AAAI/article/view/30383) [[Code]](https://github.com/Flora-jia-jfr/GPT4MTS-Prompt-based-Large-Language-Model-for-Multimodal-Time-series-Forecasting.git)
 
-・**Time-MoE** Time-MoE: Billion-Scale Time Series Foundation Models With Mixture Of Experts [[ICLR 2025]](https://arxiv.org/abs/2409.16040) [[Code]](https://github.com/Time-MoE/Time-MoE.git)
+・**TimesFM** A decoder-only foundation model for time-series forecasting [[ICML 2024]](https://arxiv.org/abs/2310.10688) [[Code]](https://github.com/google-research/timesfm.git)
 
-・**Chronos** Chronos: Learning the Language of Time Series [[TMLR 2024]](https://arxiv.org/abs/2403.07815) [[Code]](https://github.com/amazon-science/chronos-forecasting.git)
+・**AutoTimes** Autoregressive Time Series Forecasters via Large Language Models [[NeurIPS 2024]](https://arxiv.org/abs/2402.02370) [[Code]](https://github.com/thuml/AutoTimes.git)
 
-・**LMTraj** Can Language Beat Numerical Regression? Language-Based Multimodal Trajectory Prediction [[CVPR 2024]](https://arxiv.org/abs/2403.18447) [[Code]](https://github.com/InhwanBae/LMTrajectory.git)
+・**TEMPO** TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting [[ICLR 2024]](https://arxiv.org/abs/2310.04948) [[Code]](https://github.com/DC-research/TEMPO.git)
 
-・**ICTSP** In-context Time Series Predictor [[ICLR 2025]](https://arxiv.org/abs/2403.18447) [[Code]](https://github.com/LJC-FVNR/In-context-Time-Series-Predictor.git)
+・**AutoTimes** AutoTimes: Autoregressive Time Series Forecasters via Large Language Models [[NeurIPS 2024]](https://arxiv.org/abs/2402.02370) [[Code]](https://github.com/thuml/AutoTimes.git)
 
-・**UniTime** UniTime: A Language-Empowered Unified Model for Cross-Domain Time Series Forecasting [[WWW 2024]](https://arxiv.org/abs/2310.09751) [[Code]](https://github.com/liuxu77/UniTime.git)
+・**Time-LLM** Time-LLM: Time Series Forecasting by Reprogramming Large Language Models [[ICLR 2024]](https://arxiv.org/abs/2310.01728) [[Code]](https://github.com/KimMeen/Time-LLM.git)
+
+・**OFA** One Fits All:Power General Time Series Analysis by Pretrained LM [[NeurIPS 2023]](https://arxiv.org/abs/2302.11939) [[Code]](https://github.com/DAMO-DI-ML/NeurIPS2023-One-Fits-All.git)
+
+・**LLMTime** Large Language Models Are Zero-Shot Time Series Forecasters [[NeurIPS 2023]](https://arxiv.org/abs/2310.07820) [[Code]](https://github.com/ngruver/llmtime.git)
 
 
 
