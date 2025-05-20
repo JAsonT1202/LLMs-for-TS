@@ -12,6 +12,11 @@ Most models focus on forecasting; a few also cover classification, anomaly detec
 The latest trend is foundation modeling and cross-modal learning for time series using LLMs.
 
 ---
+・**Lag-Llama** Lag-Llama: Towards Foundation Models for Probabilistic Time Series Forecasting [[NeurIPS 2023 Workshop]](https://ar5iv.labs.arxiv.org/html/2310.08278) [[Code]](https://github.com/time-series-foundation-models/lag-llama.git)
+
+・**TEST** TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for Time Series [[ICLR 2024]](https://arxiv.org/abs/2308.08241) [[Code]](https://github.com/SCXsunchenxi/TEST.git)
+
+・**LLM4TS** LLM4TS: Aligning Pre-Trained LLMs as Data-Efficient Time-Series Forecasters [[ACM TIST 2025]](https://arxiv.org/abs/2308.08469) [[Code]](https://github.com/blacksnail789521/LLM4TS.git)
 
 ・**TimeCMA** TimeCMA: Towards LLM-Empowered Multivariate Time Series Forecasting via Cross-Modality Alignment [[AAAI 2025]](https://arxiv.org/abs/2406.01638) [[Code]](https://github.com/ChenxiLiu-HNU/TimeCMA.git)
 
@@ -52,6 +57,8 @@ The latest trend is foundation modeling and cross-modal learning for time series
 ・**AutoTimes** AutoTimes: Autoregressive Time Series Forecasters via Large Language Models [[NeurIPS 2024]](https://arxiv.org/abs/2402.02370) [[Code]](https://github.com/thuml/AutoTimes.git)
 
 ・**Time-LLM** Time-LLM: Time Series Forecasting by Reprogramming Large Language Models [[ICLR 2024]](https://arxiv.org/abs/2310.01728) [[Code]](https://github.com/KimMeen/Time-LLM.git)
+
+・**TimeGPT-1** TimeGPT-1 [[Nixtla 2024]](https://arxiv.org/abs/2310.03589) [[Code]](https://github.com/Nixtla/nixtla.git)
 
 ・**OFA** One Fits All:Power General Time Series Analysis by Pretrained LM [[NeurIPS 2023]](https://arxiv.org/abs/2302.11939) [[Code]](https://github.com/DAMO-DI-ML/NeurIPS2023-One-Fits-All.git)
 
