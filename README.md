@@ -12,9 +12,6 @@ Most models focus on forecasting; a few also cover classification, anomaly detec
 The latest trend is foundation modeling and cross-modal learning for time series using LLMs.
 
 ---
-・**Lag-Llama** Lag-Llama: Towards Foundation Models for Probabilistic Time Series Forecasting [[NeurIPS 2023 Workshop]](https://ar5iv.labs.arxiv.org/html/2310.08278) [[Code]](https://github.com/time-series-foundation-models/lag-llama.git)
-
-・**TEST** TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for Time Series [[ICLR 2024]](https://arxiv.org/abs/2308.08241) [[Code]](https://github.com/SCXsunchenxi/TEST.git)
 
 ・**LLM4TS** LLM4TS: Aligning Pre-Trained LLMs as Data-Efficient Time-Series Forecasters [[ACM TIST 2025]](https://arxiv.org/abs/2308.08469) [[Code]](https://github.com/blacksnail789521/LLM4TS.git)
 
@@ -33,6 +30,8 @@ The latest trend is foundation modeling and cross-modal learning for time series
 ・**Chronos** Chronos: Learning the Language of Time Series [[TMLR 2024]](https://arxiv.org/abs/2403.07815) [[Code]](https://github.com/amazon-science/chronos-forecasting.git)
 
 ・**LMTraj** Can Language Beat Numerical Regression? Language-Based Multimodal Trajectory Prediction [[CVPR 2024]](https://arxiv.org/abs/2403.18447) [[Code]](https://github.com/InhwanBae/LMTrajectory.git)
+
+・**TEST** TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for Time Series [[ICLR 2024]](https://arxiv.org/abs/2308.08241) [[Code]](https://github.com/SCXsunchenxi/TEST.git)
 
 ・**S²IP-LLM** S²IP-LLM: Semantic Space Informed Prompt Learning with LLM for Time Series Forecasting [[ICML 2024]](https://arxiv.org/abs/2403.05798) [[Code]](https://github.com/panzijie825/S2IP-LLM.git)
 
@@ -64,7 +63,7 @@ The latest trend is foundation modeling and cross-modal learning for time series
 
 ・**LLMTime** Large Language Models Are Zero-Shot Time Series Forecasters [[NeurIPS 2023]](https://arxiv.org/abs/2310.07820) [[Code]](https://github.com/ngruver/llmtime.git)
 
-
+・**Lag-Llama** Lag-Llama: Towards Foundation Models for Probabilistic Time Series Forecasting [[NeurIPS 2023 Workshop]](https://ar5iv.labs.arxiv.org/html/2310.08278) [[Code]](https://github.com/time-series-foundation-models/lag-llama.git)
 
 
 
