@@ -13,6 +13,8 @@ The latest trend is foundation modeling and cross-modal learning for time series
 
 ---
 
+・**FSTLLM** FSTLLM: Spatio-Temporal LLM for Few Shot Time Series Forecasting [[ICML 2025]](https://openreview.net/pdf?id=oyoiHf51es) [[Code]](https://github.com/JIANGYUE61610306/FSTLLM.git)
+
 ・**LLM4TS** LLM4TS: Aligning Pre-Trained LLMs as Data-Efficient Time-Series Forecasters [[ACM TIST 2025]](https://arxiv.org/abs/2308.08469) [[Code]](https://github.com/blacksnail789521/LLM4TS.git)
 
 ・**TimeCMA** TimeCMA: Towards LLM-Empowered Multivariate Time Series Forecasting via Cross-Modality Alignment [[AAAI 2025]](https://arxiv.org/abs/2406.01638) [[Code]](https://github.com/ChenxiLiu-HNU/TimeCMA.git)
