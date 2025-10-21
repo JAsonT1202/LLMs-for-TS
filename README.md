@@ -12,6 +12,7 @@ Most models focus on forecasting; a few also cover classification, anomaly detec
 The latest trend is foundation modeling and cross-modal learning for time series using LLMs.
 
 ---
+・**FSCA** Context-Alignment: Activating and Enhancing LLMs Capabilities in Time Series [[ICLR 2025]](https://openreview.net/pdf?id=syC2764fPc) [[Code]](https://github.com/tokaka22/ICLR25-FSCA.git)
 
 ・**FSTLLM** FSTLLM: Spatio-Temporal LLM for Few Shot Time Series Forecasting [[ICML 2025]](https://openreview.net/pdf?id=oyoiHf51es) [[Code]](https://github.com/JIANGYUE61610306/FSTLLM.git)
 
