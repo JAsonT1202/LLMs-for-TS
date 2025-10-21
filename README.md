@@ -12,7 +12,6 @@ Most models focus on forecasting; a few also cover classification, anomaly detec
 The latest trend is foundation modeling and cross-modal learning for time series using LLMs.
 
 ---
-・**FSCA** Context-Alignment: Activating and Enhancing LLMs Capabilities in Time Series [[ICLR 2025]](https://openreview.net/pdf?id=syC2764fPc) [[Code]](https://github.com/tokaka22/ICLR25-FSCA.git)
 
 ・**FSTLLM** FSTLLM: Spatio-Temporal LLM for Few Shot Time Series Forecasting [[ICML 2025]](https://openreview.net/pdf?id=oyoiHf51es) [[Code]](https://github.com/JIANGYUE61610306/FSTLLM.git)
 
@@ -21,6 +20,8 @@ The latest trend is foundation modeling and cross-modal learning for time series
 ・**TimeCMA** TimeCMA: Towards LLM-Empowered Multivariate Time Series Forecasting via Cross-Modality Alignment [[AAAI 2025]](https://arxiv.org/abs/2406.01638) [[Code]](https://github.com/ChenxiLiu-HNU/TimeCMA.git)
 
 ・**ChatTime** ChatTime: A Unified Multimodal Time Series Foundation Model Bridging Numerical and Textual Data [[AAAI 2025]](https://arxiv.org/abs/2412.11376) [[Code]](https://github.com/ForestsKing/ChatTime.git)
+
+・**FSCA** Context-Alignment: Activating and Enhancing LLMs Capabilities in Time Series [[ICLR 2025]](https://openreview.net/pdf?id=syC2764fPc) [[Code]](https://github.com/tokaka22/ICLR25-FSCA.git)
 
 ・**Timer-XL** Timer-XL: Long-Context Transformers for Unified Time Series Forecasting [[ICLR 2025]](https://arxiv.org/abs/2410.04803) [[Code]](https://github.com/thuml/Timer-XL.git)
 
@@ -51,6 +52,8 @@ The latest trend is foundation modeling and cross-modal learning for time series
 ・**GPT4MTS** Prompt-based Large Language Model for Multimodal Time-Series Forecasting [[AAAI 2024]](https://ojs.aaai.org/index.php/AAAI/article/view/30383) [[Code]](https://github.com/Flora-jia-jfr/GPT4MTS-Prompt-based-Large-Language-Model-for-Multimodal-Time-series-Forecasting.git)
 
 ・**TimesFM** A decoder-only foundation model for time-series forecasting [[ICML 2024]](https://arxiv.org/abs/2310.10688) [[Code]](https://github.com/google-research/timesfm.git)
+
+・**From_News_to_Forecast** From News to Forecast: Integrating Event Analysis in LLM-Based Time Series Forecasting with Reflection [[NeurIPS 2024]](https://arxiv.org/pdf/2409.17515) [[Code]](https://github.com/ameliawong1996/From_News_to_Forecast.git)
 
 ・**AutoTimes** Autoregressive Time Series Forecasters via Large Language Models [[NeurIPS 2024]](https://arxiv.org/abs/2402.02370) [[Code]](https://github.com/thuml/AutoTimes.git)
 
